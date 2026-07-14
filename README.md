@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/30005832/README.md)
-# Oktobot-Skripsi OKTO-BOT: Waypoint Navigation Robot using Artificial Potential Field (APF)
+# OKTO-BOT: Waypoint Navigation Robot using Artificial Potential Field (APF)
 
 Repositori ini merupakan lampiran *source code* dan data pengujian untuk dokumentasi penelitian / Skripsi.
 
